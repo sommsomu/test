@@ -1,2 +1,2 @@
-# test
-This is test repository for the MLOPs session
+# Sample
+This is sample repository for the MLOPs session
